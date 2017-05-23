@@ -55,8 +55,8 @@
       <file leaf-file-name="gittest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gittest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="200">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -263,15 +263,15 @@
       <workItem from="1493713793971" duration="72555000" />
       <workItem from="1494205330518" duration="117483000" />
       <workItem from="1494809671218" duration="102496000" />
-      <workItem from="1495414251211" duration="24614000" />
+      <workItem from="1495414251211" duration="24874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="326626000" />
+    <option name="totallyTimeSpent" value="326886000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="99" y="66" width="1657" height="1000" extended-state="1" />
+    <frame x="99" y="66" width="1657" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13212273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -770,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gittest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="200">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
